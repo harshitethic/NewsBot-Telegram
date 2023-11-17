@@ -45,7 +45,7 @@
     </li>
     <li><strong>Running the Bot:</strong>
       <ul>
-        <li>Run the bot using <code>node your_main_file.js</code>.</li>
+        <li>Run the bot using <code>node index.js</code>.</li>
       </ul>
     </li>
     <li><strong>Interacting with the Bot:</strong>
